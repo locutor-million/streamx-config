@@ -2,7 +2,7 @@
   "base": "http://45.12.1.90",
   "username": "676808",
   "password": "P2vCB6",
-  "blocked": false,
+  "blocked": true,
   "block_message": "Sua assinatura expirou. Entre em contato para reativar.",
   "support_contact": "WhatsApp: (11) 99999-9999"
 }
